@@ -1,0 +1,20 @@
+{
+  ".gitignore": "3c018bcb6c1d590fda59abc1fcdae5cfb165510a059d699330e98443d6412221",
+  "LICENSE": "1349a4b6148492b44f629e64eed676612e234fe9a839e4f3b277c1482c8849f1",
+  "NOTICE": "f18446cc6a043b006df932f62879fd7eaa39d903cb69501faae762feb606836e",
+  "README.md": "1bce20f8d2e994449b5dc620ff612f5dd91eab19550a21d240fb3eb2588fcb47",
+  "THIRD_PARTY_NOTICES.md": "56c39026aef10eb8b85cda1c679dd014aec5f729b87b0467bd8f67ae90d6975b",
+  "configs/model.example.json": "95aaa8bdca589b44faf977a2bb6c9e258aca17825f7cd544bde93c3a78c6c19b",
+  "expertedit/__init__.py": "bd9cf42a79ee6288515298110af3ce1a79a90c046d09ec896de1e4c305c5723a",
+  "expertedit/inference.py": "1277f8aff4e60c97686288a4b9d6a30540114031ddf8ee4a49eadc83e52e725c",
+  "expertedit/models/__init__.py": "ab36155e08a3bd3316f4c6f3bbaefdbf35d971b014c3833f4a97621643aac2fe",
+  "expertedit/models/blocks/__init__.py": "ab36155e08a3bd3316f4c6f3bbaefdbf35d971b014c3833f4a97621643aac2fe",
+  "expertedit/models/blocks/attention.py": "8784b1c546e267204d1f9826e1461f4641890bded7c4d58c5160eb6d8524e048",
+  "expertedit/models/blocks/attention_mlm.py": "5ce18cadebf794b8d1c83f5bbc9898eecf2d2c1ace43ec17ce16edcc1cd7035d",
+  "expertedit/models/blocks/convolutions.py": "95ed35c9b819945724da3b323e6b65e2cd005e426343a7dca27717ffc285b9ab",
+  "expertedit/models/blocks/mingpt.py": "defd76d780e6a8425a0825b1f95050960fa3b349c7da4055717fe9d0268e6c9a",
+  "expertedit/models/posegpt.py": "85a4a30a2ac38e2cca2c0c2c47492609cfd890141266a435bb4fbb7f5ebe38ec",
+  "expertedit/models/quantize.py": "42c0f0bcd087f006dbb95873f9517eaa49d3ec0118ae875a319e7b980d47c173",
+  "expertedit/models/tokenizer.py": "240b1239066da25a58e6ded1c4a96838bb431cfa001dd201365cc6aea30c2f2a",
+  "pyproject.toml": "57db97dfe5d30b11525ab2782f2d7a524cd759224840e1bf5f38d1960adc03d4"
+}

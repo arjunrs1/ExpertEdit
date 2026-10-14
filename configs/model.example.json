@@ -1,0 +1,37 @@
+{
+  "tokenizer": {
+    "in_dim": 147,
+    "n_e": 512,
+    "e_dim": 256,
+    "n_codebook": 2,
+    "hid_dim": 384,
+    "n_layers": [0, 6],
+    "heads": 4,
+    "dropout": 0.0,
+    "block_size": 2048,
+    "pos_type": "sine_frozen",
+    "pos_all": true,
+    "sample_method": "conv",
+    "seq_len": 120,
+    "beta": 0.25
+  },
+  "editor": {
+    "gpt_nembd": 256,
+    "gpt_blocksize": 2048,
+    "gpt_nhead": 8,
+    "gpt_nlayer": 12,
+    "gpt_embd_pdrop": 0.0,
+    "gpt_resid_pdrop": 0.0,
+    "gpt_attn_pdrop": 0.0,
+    "n_actions": 85,
+    "class_conditional": true,
+    "embed_every_step": false,
+    "seqlen_conditional": false,
+    "concat_emb": false,
+    "head_type": "fc_wo_bias",
+    "pos_emb": "scratch",
+    "action_emb": "scratch",
+    "seqlen_emb": "scratch",
+    "mask_token_id": -1
+  }
+}

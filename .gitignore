@@ -1,0 +1,36 @@
+# visualizations
+visualizations/
+
+#csv files
+*.csv
+
+# Python and local environments
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.omx/
+.codex
+
+# Local credentials and generated research artifacts
+.env
+.env.*
+!.env.example
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.pkl
+*.npy
+*.npz
+*.log
+*.zip
+*.zip.sha256
+logs/
+checkpoints/
+cached_heuristics/
+expertedit_eval_benchmark*/
+release_build_log.txt
